@@ -1,12 +1,4 @@
-<?php
-// ==================== CONFIGURATION ====================
-$CORRECT_PASSWORD = "S@m14";
-$worker_api = "https://nocdn.richardgraccia.workers.dev";
-// ---- Mirror service credentials (fill your real keys later) ---
-$gdflix_api_key    = '02e8ca395a667eb2da89e44ba8153611';
-$filepress_key     = 'jzkQCt53ImQy49Ug4bfbv2K0LHAw9qYG';
-$gcloud_api_key    = 'user2apikey0987654321fedcfedcfedc';
-// ================== STORAGE FILENAME ==================
+
 $downloads_json = "downloads.json";
 $series_json = "series.json";
 // ================== HELPER FUNCTIONS ==================
